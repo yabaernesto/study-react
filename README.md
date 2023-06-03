@@ -3,6 +3,7 @@ A fim de um estudo ReactJS, emigrei a app feita no nlw esports trilha Explorer p
 
 ## Tecnologias
 - ReactJS
+- CSS
 - TypeScript
 
 ## imagem
